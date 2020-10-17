@@ -1,0 +1,28 @@
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\DataTier.exe
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\BankDB.dll
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\DataTier.pdb
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\DataTier.exe.config
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\obj\Debug\BusinessTier.csprojAssemblyReference.cache
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\DataTier.exe
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\BankDB.dll
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\DataTier.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\DataTier.exe.config
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\obj\Debug\BusinessTier.csprojAssemblyReference.cache
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\BusinessTier\obj\Debug\BusinessTier.pdb

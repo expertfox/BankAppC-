@@ -1,0 +1,132 @@
+﻿<Window x:Class="PresentationTier.UserAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationTier"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        
+        Closing="Window_Closing"
+        Closed="Window_Closed"
+        ContentRendered="Window_ContentRendered"
+        
+        mc:Ignorable="d"
+        Title="Bank Application" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="-2,-2">
+                <GradientStop Color="#FFA0BAFF" Offset="0.7"/>
+                <GradientStop Color="#FF4C1BF1" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <materialDesign:Card
+              Background="{DynamicResource PrimaryHueDarkBrush}"
+              Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}"
+              Padding="8"
+              UniformCornerRadius="0" Margin="10,10,647,348">
+            <TextBlock x:Name="UserIDHolder"
+                    TextWrapping="Wrap">
+
+            </TextBlock>
+        </materialDesign:Card>
+
+        <Grid HorizontalAlignment="Left" Width="156" Margin="0,76,0,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="167*"/>
+                <RowDefinition Height="166*"/>
+            </Grid.RowDefinitions>
+            <Button
+                Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                Height="150"
+                materialDesign:ButtonAssist.CornerRadius="0 10 10 0"
+                Click="Button_Click" HorizontalContentAlignment="Center" Content="USER DETAILS" Margin="0,7,0,10" Foreground="#DD000000" FontFamily="Microsoft JhengHei UI" FontWeight="Bold">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0,-2" StartPoint="1,2">
+                        <GradientStop Color="#FF8F8F8F"/>
+                        <GradientStop Color="#FFF3F3F3" Offset="0.513"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button
+                Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                Height="Auto"
+                materialDesign:ButtonAssist.CornerRadius="0 10 10 0" Click="Button_Click_2" HorizontalContentAlignment="Center" Content="BANK ACCOUNTS" Foreground="#DDFFFFFF" FontSize="14" FontFamily="Microsoft JhengHei UI" Margin="0,6,0,10" Grid.Row="1">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0,-2" StartPoint="1,2">
+                        <GradientStop Color="#FF8F8F8F"/>
+                        <GradientStop Color="#FF6E9ADA" Offset="0.513"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+
+
+            </Button>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="399" Margin="182,10,0,0" VerticalAlignment="Top" Width="600" Opacity="0.9">
+
+            <Grid HorizontalAlignment="Left" Margin="107,10,0,341" Width="386">
+                <TextBlock
+                    Style="{StaticResource MaterialDesignHeadline4TextBlock}" HorizontalAlignment="Center" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Foreground="#DDCFCFCF" Margin="76,0">
+                 USER DETAILS
+                </TextBlock>
+            </Grid>
+            <Grid Height="234" Margin="107,80,107,0" VerticalAlignment="Top">
+
+                <Grid Height="74" Margin="157,10,157,0" VerticalAlignment="Top">
+                    <materialDesign:PackIcon Kind="AccountCircle" Height="74" Width="72" />
+                </Grid>
+                <Grid HorizontalAlignment="Left" Height="52" Margin="79,97,0,0" VerticalAlignment="Top" Width="225">
+                    <TextBox
+                        x:Name="txtFname"
+                      materialDesign:HintAssist.Hint="First Name"
+                      materialDesign:TextFieldAssist.TextBoxViewMargin="1 0 1 0"
+                      materialDesign:HintAssist.FloatingScale="0.50"
+                      Text=""
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                      FontSize="24" Foreground="#DDFFFFFF" />
+
+                </Grid>
+                <Grid HorizontalAlignment="Left" Height="55" Margin="79,154,0,0" VerticalAlignment="Top" Width="225">
+                    <TextBox
+                        x:Name="txtLname"
+                      materialDesign:HintAssist.Hint="Last Name"
+                      materialDesign:TextFieldAssist.TextBoxViewMargin="1 0 1 0"
+                      materialDesign:HintAssist.FloatingScale="0.50"
+                      Text=""
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                      FontSize="24" Foreground="#DDFFFFFF" CaretBrush="#FF46159B" />
+                </Grid>
+            </Grid>
+            <Grid Height="80" Margin="107,319,107,0" VerticalAlignment="Top">
+                <Grid Margin="49,0,202,10">
+                    <Button
+                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                    Height="50"
+                    materialDesign:ButtonAssist.CornerRadius="25"
+                    ToolTip="Clears the fields" Click="Button_Clear_Click_3">
+                        <TextBlock
+                      Text="CLEAR" />
+                    </Button>
+                </Grid>
+                <Grid Margin="202,0,49,10">
+                    <Button
+                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                    Height="50"
+                    materialDesign:ButtonAssist.CornerRadius="25"
+                    ToolTip="Updates details" Click="Button_Update_Click_4">
+                        <TextBlock
+                      Text="UPDATE" />
+                    </Button>
+                </Grid>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>
