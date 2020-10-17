@@ -1,0 +1,38 @@
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\bin\Debug\DataTier.exe.config
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\bin\Debug\DataTier.exe
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\bin\Debug\DataTier.pdb
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\bin\Debug\BankDB.dll
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\obj\Debug\DataTier.exe
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\obj\Debug\DataTier.pdb
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rajit\Desktop\CURTIN WORK\DC\Assignment\DataTier\DataTier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\DataTier.exe.config
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\DataTier.exe
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\DataTier.pdb
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\MaterialDesignColors.dll
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\obj\Debug\DataTier.csproj.CoreCompileInputs.cache
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\obj\Debug\DataTier.csproj.CopyComplete
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\obj\Debug\DataTier.exe
+C:\Users\NOOOOBFOX\source\repos\PresentationTier\DataTier\obj\Debug\DataTier.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\DataTier.exe.config
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\DataTier.exe
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\DataTier.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\MaterialDesignColors.dll
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\obj\Debug\DataTier.csproj.CoreCompileInputs.cache
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\obj\Debug\DataTier.csproj.CopyComplete
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\obj\Debug\DataTier.exe
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\obj\Debug\DataTier.pdb
+C:\Users\NOOOOBFOX\Desktop\Working Without BT\PresentationTier\DataTier\obj\Debug\DataTier.csprojAssemblyReference.cache
